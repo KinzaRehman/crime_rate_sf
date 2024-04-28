@@ -1,2 +1,2 @@
 # crime_rate_sf
-The SF data set from 2018- current was used to analyze neighborhoods and crime rates. A thorough analysis was conducted to study which areas, day and time there were high rates of crimes.
+The SF data set from 2018- current was used to analyze neighborhoods and crime rates. A thorough analysis was conducted to study which areas, day and time there were high rates of crimes. I worked alongside my team to do an indepth analysis of crime patterns in SF from the years 2019-2023. This analysis was then used to recommend how to best spend allocated money in efforts to reduce crimes within SF. 
